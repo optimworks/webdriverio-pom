@@ -1,0 +1,100 @@
+{
+  "TC" : 
+  {    
+       "Url" :
+       {
+            "baseURL" : "https://trello.com/"
+       },
+        "loginCredentials" :
+        {
+          "username" : "manideep.bojjapuri@optimworks.com",
+          "password" :  "optimworks"
+        }
+  },
+  "TC_001" :
+  {
+        
+        "boardTitlename" :
+        {
+             "boardtitle" : "cricket"
+        }
+        
+  },
+  "TC_002" :
+  {
+        "boardTitlename" :
+        {
+             "boardtitle" : "sports"
+        },
+        "ListNames" :
+        {
+          "listname1" : "cricket",
+          "listname2" : "footall",
+          "listname3" : "volleyball"
+        }
+  },
+  "TC_003" :
+  {
+        "boardTitlename" :
+        {
+             "boardtitle" : "cricket"
+        },
+        "ListNames" :
+        {
+          "listname1" : "Batsman",
+          "listname2" : "Bowler",
+          "listname3" : "Allrounder"
+        },
+        "List1CardNames" :
+        {
+          "cardname1" : "Sachin Ramesh Tendulkar",
+          "cardname2" : "Rohit Gurunath Sharma",
+          "cardname3" :  "Surya Kumar Yadav" 
+        },
+        "List2CardNames" :
+        {
+          "cardname1" : "Jasprit Bumrah",
+          "cardname2" : "Trent Boult",
+          "cardname3" : "Adam Milne"
+        },
+        "List3CardNames" :
+        {
+          "cardname1" : "Hardik pandya",
+          "cardname2" : "Kieron Pollard",
+          "cardname3" : "Krunal Pandya"
+        }
+  },
+  "TC_004" :
+  {
+      
+        "boardTitlename" :
+        {
+             "boardtitle" : "Movies"
+        },
+        "ListNames" :
+        {
+          "listname1" : "comedy",
+          "listname2" : "Horror",
+          "listname3" : "Action"
+        },
+        "List1CardNames" :
+        {
+          "cardname1" : "Red Notice",
+          "cardname2" : "Free Guy",
+          "cardname3" :  "Jungle cruise" 
+        },
+        "List2CardNames" :
+        {
+          "cardname1" : "conjuring",
+          "cardname2" : "wrong turn",
+          "cardname3" : "IT"
+        },
+        "List3CardNames" :
+        {
+          "cardname1" : "king",
+          "cardname2" : "Akhanda",
+          "cardname3" : "khaidi"
+        }
+  }    
+}
+
